@@ -1,5 +1,3 @@
-# Moosic-DBSCAN-Playlist-Clustering
-Exploring how DBSCAN can group Spotify songs by audio features to support automated playlist creation.
 # Moosic — Spotify Playlist Clustering with DBSCAN
 
 Exploring how machine learning can group songs by their audio features and support playlist creation at scale.
